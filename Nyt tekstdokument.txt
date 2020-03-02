@@ -1,1 +1,17 @@
-Dette er en test i at arbejde med github!
+Dette er en test i at arbejde med Github! 
+
+William (ccoodduu):
+Jeg ved ike om jeg kan finde ud af det her. 
+Men jeg tror jeg kan ;)
+
+Dette er en ".txt" fil som jeg har fået at vide at jeg skal prøve at redigere i.
+88        88   888888888  888888888  8888888888
+ 88      88    88         88             88
+  88    88     88         88             88
+   88  88      8888       8888           88
+    8888       88         88             88  
+     88        88         88             88
+     88        88         88             88
+     88        88         88             88
+     88        88         88             88
+     88        888888888  888888888      88
